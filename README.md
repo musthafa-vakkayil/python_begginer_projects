@@ -1,7 +1,5 @@
 <h2> Hey there! 👋.</h2>
 
-<h2> Here are the few of Python Begginer Projects.</h2>
-
 <h2> Welcome to Python 🤓</h2>
 
 ![](images/python1.jpg)
